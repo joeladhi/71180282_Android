@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931718195440",
+    "firebase_url": "https://android-buku-1639791001743-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-buku-1639791001743",
+    "storage_bucket": "android-buku-1639791001743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931718195440:android:5bada1a586bbda789bfa35",
+        "android_client_info": {
+          "package_name": "com.example.uas_andro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931718195440-83picqellhh98lmm61bo9rj8srs2ss8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas_andro",
+            "certificate_hash": "202e4c7c844379af587c8bc27594807d9207807e"
+          }
+        },
+        {
+          "client_id": "931718195440-h13slsvk3v269rd01gl3brvr3g1sa522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcuaczPG_uil267xKlco7DmFUjOlF9kFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931718195440-h13slsvk3v269rd01gl3brvr3g1sa522.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
